@@ -1,0 +1,2 @@
+# StreamingApplication
+Sream manipulation service
